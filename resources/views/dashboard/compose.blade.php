@@ -93,7 +93,7 @@
             </div>
             <!-- /.card -->
           </div>
-          <!-- /.col -->
+          <!-- /h.col -->
         </div>
         <!-- /.row -->
       </div><!-- /.container-fluid -->
